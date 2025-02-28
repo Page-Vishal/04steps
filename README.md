@@ -1,3 +1,3 @@
 # Check out
 
-(HERE)[https://page-vishal.github.io/04steps/]
+[HERE](https://page-vishal.github.io/04steps/)
